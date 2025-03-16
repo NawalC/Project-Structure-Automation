@@ -42,7 +42,7 @@ To use this script in a different repository:
 
 1. Copy the script to your target repository:
     ```bash
-    curl -O https://raw.githubusercontent.com/yourusername/istio-argo-playground/main/project-structure.sh
+    curl -O https://raw.githubusercontent.com/NawalC/project-structure-automation/blob/main/project-structure.sh
     ```
 
 2. Make it executable:
@@ -57,7 +57,7 @@ To use this script in a different repository:
 
 4. Alternatively, run it directly without saving:
     ```bash
-    bash <(curl -s https://raw.githubusercontent.com/NawalC/Project-Structure-Automation/blob/main/project-structure.sh) your_project_name
+    bash <(curl -s https://raw.githubusercontent.com/NawalC/project-structure-automation/blob/main/project-structure.sh) your_project_name
     ```
 
 Credits: Project structure inspired by [rifaterdemsahin](https://github.com/rifaterdemsahin)
